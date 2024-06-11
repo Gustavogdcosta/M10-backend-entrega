@@ -1,4 +1,4 @@
-package br.com.M10Entrega;
+package controleDeFluxo;
 
 import java.util.Scanner;
 
